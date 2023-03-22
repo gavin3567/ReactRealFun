@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "aH4VtUboLtaFnuPHcNu9l/7b/mKXCpUqv2VnlXdEq3aPkTf4cktzaLyS7Q38NWmc+kI4rIx7mfb1zBqQzdcqRg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gavin\\Desktop\\ReactRealFun\\backend\\ReactRealFun\\ReactRealFun.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gavin\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\gavin\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\gavin\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\gavin\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\gavin\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\gavin\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
